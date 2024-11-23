@@ -1500,14 +1500,15 @@ color: white;
 
 .menu {
     list-style: none;
-    padding: 20px;
+    /*padding: 20px;
     background: #ffffff9e;
-    margin: 0;
+    margin: 0;*/
     position: absolute;
     right: 299px;
-    margin-top: -505px;
+    /*margin-top: -505px;*/
     font-size: 18px;
     line-height: 40px;
+    padding-left: 220px;
 }
 
 .img-fluids {
