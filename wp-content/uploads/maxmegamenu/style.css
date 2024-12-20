@@ -73,7 +73,7 @@
 }
 @media only screen and (max-width: 768px) {
   #mega-menu-wrap-primary.mega-keyboard-navigation > li.mega-menu-item > a.mega-menu-link:focus {
-    color: #e0c775;
+    color: #007bff;
     background: #333;
   }
 }
@@ -312,7 +312,7 @@
 }
 @media only screen and (max-width: 768px) {
   #mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-item.mega-toggle-on > a.mega-menu-link {
-    color: #e0c775;
+    color: #007bff;
     background: #333;
   }
 }
@@ -325,7 +325,7 @@
 }
 @media only screen and (max-width: 768px) {
   #mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-item.mega-current-menu-item > a.mega-menu-link, #mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-item.mega-current-menu-ancestor > a.mega-menu-link, #mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-item.mega-current-page-ancestor > a.mega-menu-link {
-    color: #e0c775;
+    color: #007bff;
     background: #333;
   }
 }
@@ -336,7 +336,7 @@
   vertical-align: baseline;
   width: auto;
   display: block;
-  color: #e0c775;
+  color: #007bff;
   text-transform: none;
   text-decoration: underline;
   text-align: left;
@@ -379,7 +379,7 @@
     padding: 0 10px;
     background: transparent;
     text-align: center;
-    color: #e0c775;
+    color: #007bff;
     font-size: 16px;
   }
 }
@@ -1214,7 +1214,7 @@
   display: none;
   z-index: 1;
   cursor: pointer;
-  background: #e0c775;
+  background: #007bff;
   border-radius: 2px 2px 2px 2px;
   line-height: 40px;
   height: 40px;
@@ -1393,7 +1393,7 @@
 }
 @media only screen and (min-width: 769px) {
   #mega-menu-wrap-primary2 {
-    background: #e0c775;
+    background: #007bff;
   }
 }
 #mega-menu-wrap-primary2.mega-keyboard-navigation .mega-menu-toggle:focus, #mega-menu-wrap-primary2.mega-keyboard-navigation .mega-toggle-block:focus, #mega-menu-wrap-primary2.mega-keyboard-navigation .mega-toggle-block a:focus, #mega-menu-wrap-primary2.mega-keyboard-navigation .mega-toggle-block .mega-search input[type=text]:focus, #mega-menu-wrap-primary2.mega-keyboard-navigation .mega-toggle-block button.mega-toggle-animated:focus, #mega-menu-wrap-primary2.mega-keyboard-navigation #mega-menu-primary2 a:focus, #mega-menu-wrap-primary2.mega-keyboard-navigation #mega-menu-primary2 input:focus, #mega-menu-wrap-primary2.mega-keyboard-navigation #mega-menu-primary2 li.mega-menu-item a.mega-menu-link:focus {
@@ -1646,7 +1646,7 @@
 }
 @media only screen and (min-width: 769px) {
   #mega-menu-wrap-primary2 #mega-menu-primary2 > li.mega-menu-item > a.mega-menu-link:hover {
-    background: #038e72;
+    background: #007BB8;
     color: #fff;
     font-weight: normal;
     text-decoration: none;
@@ -2377,7 +2377,7 @@
   max-width: none;
   padding: 0px 0px 0px 0px;
   border: 0;
-  background: #e0c775;
+  background: #007bff;
   border-radius: 0;
 }
 @media only screen and (max-width: 768px) {
@@ -2397,7 +2397,7 @@
 }
 #mega-menu-wrap-primary2 #mega-menu-primary2 > li.mega-menu-flyout ul.mega-sub-menu li.mega-menu-item a.mega-menu-link {
   display: block;
-  background: #e0c775;
+  background: #007bff;
   color: #fff;
   font-family: inherit;
   font-size: 14px;
@@ -2560,7 +2560,7 @@
   display: none;
   z-index: 1;
   cursor: pointer;
-  background: #e0c775;
+  background: #007bff;
   border-radius: 2px 2px 2px 2px;
   line-height: 40px;
   height: 40px;
@@ -2649,7 +2649,7 @@
 }
 @media only screen and (max-width: 768px) {
   #mega-menu-wrap-primary2 .mega-menu-toggle + #mega-menu-primary2 {
-    background: #e0c775;
+    background: #007bff;
     padding: 0px 0px 0px 0px;
     display: none;
     position: absolute;
